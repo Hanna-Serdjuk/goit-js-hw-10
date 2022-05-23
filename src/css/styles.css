@@ -20,7 +20,7 @@ p {
 
 #search-box {
   font: inherit;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 500;
   padding: 10px;
   max-width: 320px;
@@ -36,6 +36,11 @@ input:hover,
 input:focus {
   border: 1px solid rgb(57, 10, 226);
   outline: none;
+}
+
+input::placeholder {
+  font-size: 14px;
+  font-style: italic;
 }
 
 .country-list {
