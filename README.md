@@ -1,3 +1,81 @@
+# Countries Search App
+
+A web application for searching countries and viewing information about them.
+
+## Live Demo
+
+[View the live application](https://hanna-serdjuk.github.io/goit-js-hw-10/)
+
+## About the Project
+
+This project was developed as part of my web development training. It allows users to search for countries by name and view information about matching results.
+
+The application retrieves country data from an external API and displays it in a clear and user-friendly interface.
+
+## Features
+
+- Search for countries by name
+- Find countries using partial name matches
+- Display a list of matching countries
+- View detailed information about a country
+- Display the country's flag, capital, population, and languages
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Handlebars
+- Parcel
+- Fetch API
+- REST API
+
+## API
+
+The application uses [countries.dev](https://countries.dev/) to retrieve country information.
+
+## What I Learned
+
+- Working with asynchronous JavaScript
+- Fetching data from an external API
+- Processing JSON responses
+- Handling search queries and user input
+- Rendering dynamic content with Handlebars
+- Integrating API data into a web application
+
+## Getting Started
+
+To run the project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Hanna-Serdjuk/goit-js-hw-10.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd goit-js-hw-10
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server using the script configured in `package.json`.
+
+## Author
+
+**Hanna Serdjuk**
+
+[GitHub Profile](https://github.com/Hanna-Serdjuk)
+
+
+
+
 # Parcel boilerplate
 
 ## Скрытые файлы
